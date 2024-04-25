@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+body {
+    background-color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.box {
+    width: 280px;
+    height: auto;
+    margin: 100px auto;
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+}
+img {
+    width: 100%;
+}
+.box2 {
+    text-align: center;
+    padding: 10px 45px 40px;
+}
+.box2 h2 {
+    color: orangered;
+}
+.box2 i {
+    margin: 0px 10px;
+    color: orangered;
+}
